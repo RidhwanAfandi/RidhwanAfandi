@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&height=100&size=30&duration=2000&pause=1000&color=000000&center=true&width=900&lines=Hello+there,+I'm+Ridhwan;C%2B%2B+Software+Developer;Graphics+Programming+Enthusiast" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&height=100&size=40&duration=2000&pause=1000&color=808080&center=true&width=900&lines=Hello+there,+I'm+Ridhwan;C%2B%2B+Software+Developer;Graphics+Programming+Enthusiast" alt="Typing SVG"/>
 </p>
 
 ---
