@@ -43,8 +43,8 @@
 </td>
 
 <td width="300px" align="center">
-  <a href="https://youtu.be/d3-7r0DqKzk" target="_blank">
-    <img src="https://img.youtube.com/vi/d3-7r0DqKzk/0.jpg" width="280px" alt="Grabity"/>
+  <a href="https://youtu.be/6pykaKG5IIo" target="_blank">
+    <img src="https://img.youtube.com/vi/6pykaKG5IIo/0.jpg" width="280px" alt="Grabity"/>
   </a>
   <br/>
   <b>🎮 <a href = "https://github.com/RidhwanAfandi/Grabity">Grabity</b><br/>
